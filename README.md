@@ -60,12 +60,13 @@ This will train the Rasa Core model and store it inside the `/models/current/dia
 
 3. Predicting the intent:
 Run the following code in python:
+```
 >>> from rasa_nlu.model import Interpreter
 >>> nlu_model = Interpreter.load('./models/current/nlu')
 >>> nlu_model.parse('Hi')
 >>> nlu_model.parse('what is happening in the cricket world these days?')
 >>> nlu_model.parse('Bye')
-
+```
 
 4. Test the assistant by running:  
 ```make cmdline```  
