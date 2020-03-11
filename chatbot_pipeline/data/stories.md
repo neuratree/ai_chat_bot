@@ -4,7 +4,7 @@
 * current_matches
   - utter_match_news
   - utter_did_that_help
-* affirm or thanks
+* affirm
   - utter_gratitude
 * goodbye
   - utter_goodbye
@@ -13,7 +13,7 @@
 * current_matches
   - utter_match_news
   - utter_did_that_help
-* affirm or thanks
+* affirm
   - utter_gratitude
 * goodbye
   - utter_goodbye
@@ -29,7 +29,7 @@
 * current_matches
   - utter_match_news
   - utter_did_that_help
-* affirm or thanks
+* affirm
   - utter_gratitude
 * goodbye
   - utter_goodbye
